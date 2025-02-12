@@ -1,3 +1,7 @@
 .header {
     background-color: silver;
 }
+button{
+    border-radius:30px;
+    padding:5px 20px;
+}
