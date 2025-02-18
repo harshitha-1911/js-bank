@@ -5,3 +5,18 @@ button{
     border-radius:30px;
     padding:5px 20px;
 }
+.box {
+    background-color: white;
+    padding: 100px;
+    width:300px;
+    border-radius:50px;
+    text-align:center;
+}
+/* .btn-login {
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    padding:10px;
+    border-radius: 10px;
+  } */
